@@ -1,4 +1,4 @@
-![Screenshot (764)](https://github.com/AnthonyBadr/Ecourses-Website/assets/84504122/240693be-f537-4f0a-a9fd-3a0e4cd6edf3)# Ecourses-Website
+
 
 ## Overview
 Ecourses-Website is a school management system designed to streamline various school-related tasks and enhance communication within the school community.
